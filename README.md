@@ -19,7 +19,7 @@ This repository contains the code and data from a master's thesis investigating 
    - Two approaches are compared:  
      - **LLM‐Only**: The question is sent to the LLM without any additional context.  
      - **LLM+KG**: The question is sent to the LLM along with relevant facts from the Knowledge Graph.  
-   - The results are logged to `results/Results.json`.
+   - The results are logged to `results/results.json`.
 
 4. **Evaluation**  
    - `evaluation/explainability.py` applies local explanation methods (LIME and SHAP) to the Q&A results and stores the outputs in `evaluation/results/explainability.json`.  
