@@ -72,7 +72,7 @@ Calculates metrics such as accuracy, hallucination rate, and bias rate, saving t
 
 1. **Clone the repository**  
    ```bash
-   git clone <https://github.com/SL1710/MasterThesis30314/>
+   git clone https://github.com/SL1710/MasterThesis30314/
    cd MasterThesis30314
 
 2. **Create a Python virtual environment (optional)**
