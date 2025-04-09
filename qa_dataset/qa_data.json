@@ -1,0 +1,2578 @@
+{
+  "qa_dataset": [
+    {
+      "question": "What is the gender of George Washington?",
+      "knowledge_snippet": "George Washington gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of George Washington?",
+      "knowledge_snippet": "George Washington nationality -> Kingdom of Great Britain.",
+      "answer": "Kingdom of Great Britain",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was George Washington born?",
+      "knowledge_snippet": "George Washington birth date -> 1732-02-22.",
+      "answer": "1732-02-22",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was George Washington born and what is their nationality?",
+      "knowledge_snippet": "George Washington birth date -> 1732-02-22, nationality -> Kingdom of Great Britain.",
+      "answer": "George Washington was born on 1732-02-22 and is Kingdom of Great Britain.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Douglas Adams?",
+      "knowledge_snippet": "Douglas Adams gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Douglas Adams?",
+      "knowledge_snippet": "Douglas Adams nationality -> United Kingdom.",
+      "answer": "United Kingdom",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Douglas Adams born?",
+      "knowledge_snippet": "Douglas Adams birth date -> 1952-03-11.",
+      "answer": "1952-03-11",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Douglas Adams born and what is their nationality?",
+      "knowledge_snippet": "Douglas Adams birth date -> 1952-03-11, nationality -> United Kingdom.",
+      "answer": "Douglas Adams was born on 1952-03-11 and is United Kingdom.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Paul Otlet?",
+      "knowledge_snippet": "Paul Otlet gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Paul Otlet?",
+      "knowledge_snippet": "Paul Otlet nationality -> Belgium.",
+      "answer": "Belgium",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Paul Otlet born?",
+      "knowledge_snippet": "Paul Otlet birth date -> 1868-08-23.",
+      "answer": "1868-08-23",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Paul Otlet born and what is their nationality?",
+      "knowledge_snippet": "Paul Otlet birth date -> 1868-08-23, nationality -> Belgium.",
+      "answer": "Paul Otlet was born on 1868-08-23 and is Belgium.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of George W. Bush?",
+      "knowledge_snippet": "George W. Bush gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of George W. Bush?",
+      "knowledge_snippet": "George W. Bush nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was George W. Bush born?",
+      "knowledge_snippet": "George W. Bush birth date -> 1946-07-06.",
+      "answer": "1946-07-06",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was George W. Bush born and what is their nationality?",
+      "knowledge_snippet": "George W. Bush birth date -> 1946-07-06, nationality -> United States.",
+      "answer": "George W. Bush was born on 1946-07-06 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Diego Velázquez?",
+      "knowledge_snippet": "Diego Velázquez gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Diego Velázquez?",
+      "knowledge_snippet": "Diego Velázquez nationality -> Spain.",
+      "answer": "Spain",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Diego Velázquez born?",
+      "knowledge_snippet": "Diego Velázquez birth date -> 1599-06-06.",
+      "answer": "1599-06-06",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Diego Velázquez born and what is their nationality?",
+      "knowledge_snippet": "Diego Velázquez birth date -> 1599-06-06, nationality -> Spain.",
+      "answer": "Diego Velázquez was born on 1599-06-06 and is Spain.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Augusto Pinochet?",
+      "knowledge_snippet": "Augusto Pinochet gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Augusto Pinochet?",
+      "knowledge_snippet": "Augusto Pinochet nationality -> Chile.",
+      "answer": "Chile",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Augusto Pinochet born?",
+      "knowledge_snippet": "Augusto Pinochet birth date -> 1915-11-25.",
+      "answer": "1915-11-25",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Augusto Pinochet born and what is their nationality?",
+      "knowledge_snippet": "Augusto Pinochet birth date -> 1915-11-25, nationality -> Chile.",
+      "answer": "Augusto Pinochet was born on 1915-11-25 and is Chile.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Charles Baudelaire?",
+      "knowledge_snippet": "Charles Baudelaire gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Charles Baudelaire?",
+      "knowledge_snippet": "Charles Baudelaire nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Charles Baudelaire born?",
+      "knowledge_snippet": "Charles Baudelaire birth date -> 1821-04-09.",
+      "answer": "1821-04-09",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Charles Baudelaire born and what is their nationality?",
+      "knowledge_snippet": "Charles Baudelaire birth date -> 1821-04-09, nationality -> France.",
+      "answer": "Charles Baudelaire was born on 1821-04-09 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Nicolaus Copernicus?",
+      "knowledge_snippet": "Nicolaus Copernicus gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Nicolaus Copernicus?",
+      "knowledge_snippet": "Nicolaus Copernicus nationality -> Kingdom of Poland.",
+      "answer": "Kingdom of Poland",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Nicolaus Copernicus born?",
+      "knowledge_snippet": "Nicolaus Copernicus birth date -> 1473-02-19.",
+      "answer": "1473-02-19",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Nicolaus Copernicus born and what is their nationality?",
+      "knowledge_snippet": "Nicolaus Copernicus birth date -> 1473-02-19, nationality -> Kingdom of Poland.",
+      "answer": "Nicolaus Copernicus was born on 1473-02-19 and is Kingdom of Poland.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Neil Young?",
+      "knowledge_snippet": "Neil Young gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Neil Young?",
+      "knowledge_snippet": "Neil Young nationality -> Canada.",
+      "answer": "Canada",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Neil Young born?",
+      "knowledge_snippet": "Neil Young birth date -> 1945-11-12.",
+      "answer": "1945-11-12",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Neil Young born and what is their nationality?",
+      "knowledge_snippet": "Neil Young birth date -> 1945-11-12, nationality -> Canada.",
+      "answer": "Neil Young was born on 1945-11-12 and is Canada.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Harald Krichel?",
+      "knowledge_snippet": "Harald Krichel gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Harald Krichel?",
+      "knowledge_snippet": "Harald Krichel nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Harald Krichel born?",
+      "knowledge_snippet": "Harald Krichel birth date -> 1969-00-00.",
+      "answer": "1969-00-00",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Harald Krichel born and what is their nationality?",
+      "knowledge_snippet": "Harald Krichel birth date -> 1969-00-00, nationality -> Germany.",
+      "answer": "Harald Krichel was born on 1969-00-00 and is Germany.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Pierre Corneille?",
+      "knowledge_snippet": "Pierre Corneille gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Pierre Corneille born?",
+      "knowledge_snippet": "Pierre Corneille birth date -> 1606-06-06.",
+      "answer": "1606-06-06",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Gabriel Gonzáles Videla?",
+      "knowledge_snippet": "Gabriel Gonzáles Videla gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Gabriel Gonzáles Videla?",
+      "knowledge_snippet": "Gabriel Gonzáles Videla nationality -> Chile.",
+      "answer": "Chile",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Gabriel Gonzáles Videla born?",
+      "knowledge_snippet": "Gabriel Gonzáles Videla birth date -> 1898-11-22.",
+      "answer": "1898-11-22",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Gabriel Gonzáles Videla born and what is their nationality?",
+      "knowledge_snippet": "Gabriel Gonzáles Videla birth date -> 1898-11-22, nationality -> Chile.",
+      "answer": "Gabriel Gonzáles Videla was born on 1898-11-22 and is Chile.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Andrei Tarkovsky?",
+      "knowledge_snippet": "Andrei Tarkovsky gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Andrei Tarkovsky?",
+      "knowledge_snippet": "Andrei Tarkovsky nationality -> Soviet Union.",
+      "answer": "Soviet Union",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Andrei Tarkovsky born?",
+      "knowledge_snippet": "Andrei Tarkovsky birth date -> 1932-04-04.",
+      "answer": "1932-04-04",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Andrei Tarkovsky born and what is their nationality?",
+      "knowledge_snippet": "Andrei Tarkovsky birth date -> 1932-04-04, nationality -> Soviet Union.",
+      "answer": "Andrei Tarkovsky was born on 1932-04-04 and is Soviet Union.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Plato?",
+      "knowledge_snippet": "Plato gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Plato born?",
+      "knowledge_snippet": "Plato birth date -> -0427-05-07.",
+      "answer": "-0427-05-07",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Meryl Streep?",
+      "knowledge_snippet": "Meryl Streep gender -> female.",
+      "answer": "Female.",
+      "explanation": "P21 indicates female."
+    },
+    {
+      "question": "What is the nationality of Meryl Streep?",
+      "knowledge_snippet": "Meryl Streep nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Meryl Streep born?",
+      "knowledge_snippet": "Meryl Streep birth date -> 1949-06-22.",
+      "answer": "1949-06-22",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Meryl Streep born and what is their nationality?",
+      "knowledge_snippet": "Meryl Streep birth date -> 1949-06-22, nationality -> United States.",
+      "answer": "Meryl Streep was born on 1949-06-22 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Donald Tusk?",
+      "knowledge_snippet": "Donald Tusk gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Donald Tusk?",
+      "knowledge_snippet": "Donald Tusk nationality -> Poland.",
+      "answer": "Poland",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Donald Tusk born?",
+      "knowledge_snippet": "Donald Tusk birth date -> 1957-04-22.",
+      "answer": "1957-04-22",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Donald Tusk born and what is their nationality?",
+      "knowledge_snippet": "Donald Tusk birth date -> 1957-04-22, nationality -> Poland.",
+      "answer": "Donald Tusk was born on 1957-04-22 and is Poland.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Andrei Sakharov?",
+      "knowledge_snippet": "Andrei Sakharov gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Andrei Sakharov?",
+      "knowledge_snippet": "Andrei Sakharov nationality -> Soviet Union.",
+      "answer": "Soviet Union",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Andrei Sakharov born?",
+      "knowledge_snippet": "Andrei Sakharov birth date -> 1921-05-21.",
+      "answer": "1921-05-21",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Andrei Sakharov born and what is their nationality?",
+      "knowledge_snippet": "Andrei Sakharov birth date -> 1921-05-21, nationality -> Soviet Union.",
+      "answer": "Andrei Sakharov was born on 1921-05-21 and is Soviet Union.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Italo Balbo?",
+      "knowledge_snippet": "Italo Balbo gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Italo Balbo born?",
+      "knowledge_snippet": "Italo Balbo birth date -> 1896-06-06.",
+      "answer": "1896-06-06",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Narendra Modi?",
+      "knowledge_snippet": "Narendra Modi gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Narendra Modi?",
+      "knowledge_snippet": "Narendra Modi nationality -> India.",
+      "answer": "India",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Narendra Modi born?",
+      "knowledge_snippet": "Narendra Modi birth date -> 1950-09-17.",
+      "answer": "1950-09-17",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Narendra Modi born and what is their nationality?",
+      "knowledge_snippet": "Narendra Modi birth date -> 1950-09-17, nationality -> India.",
+      "answer": "Narendra Modi was born on 1950-09-17 and is India.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Indira Gandhi?",
+      "knowledge_snippet": "Indira Gandhi gender -> female.",
+      "answer": "Female.",
+      "explanation": "P21 indicates female."
+    },
+    {
+      "question": "What is the nationality of Indira Gandhi?",
+      "knowledge_snippet": "Indira Gandhi nationality -> India.",
+      "answer": "India",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Indira Gandhi born?",
+      "knowledge_snippet": "Indira Gandhi birth date -> 1917-11-19.",
+      "answer": "1917-11-19",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Indira Gandhi born and what is their nationality?",
+      "knowledge_snippet": "Indira Gandhi birth date -> 1917-11-19, nationality -> India.",
+      "answer": "Indira Gandhi was born on 1917-11-19 and is India.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Hector Berlioz?",
+      "knowledge_snippet": "Hector Berlioz gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Hector Berlioz?",
+      "knowledge_snippet": "Hector Berlioz nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Hector Berlioz born?",
+      "knowledge_snippet": "Hector Berlioz birth date -> 1803-12-11.",
+      "answer": "1803-12-11",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Hector Berlioz born and what is their nationality?",
+      "knowledge_snippet": "Hector Berlioz birth date -> 1803-12-11, nationality -> France.",
+      "answer": "Hector Berlioz was born on 1803-12-11 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Oscar Luigi Scalfaro?",
+      "knowledge_snippet": "Oscar Luigi Scalfaro gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Oscar Luigi Scalfaro?",
+      "knowledge_snippet": "Oscar Luigi Scalfaro nationality -> Italy.",
+      "answer": "Italy",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Oscar Luigi Scalfaro born?",
+      "knowledge_snippet": "Oscar Luigi Scalfaro birth date -> 1918-09-09.",
+      "answer": "1918-09-09",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Oscar Luigi Scalfaro born and what is their nationality?",
+      "knowledge_snippet": "Oscar Luigi Scalfaro birth date -> 1918-09-09, nationality -> Italy.",
+      "answer": "Oscar Luigi Scalfaro was born on 1918-09-09 and is Italy.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Ban Ki-moon?",
+      "knowledge_snippet": "Ban Ki-moon gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Ban Ki-moon?",
+      "knowledge_snippet": "Ban Ki-moon nationality -> South Korea.",
+      "answer": "South Korea",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Ban Ki-moon born?",
+      "knowledge_snippet": "Ban Ki-moon birth date -> 1944-06-13.",
+      "answer": "1944-06-13",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Ban Ki-moon born and what is their nationality?",
+      "knowledge_snippet": "Ban Ki-moon birth date -> 1944-06-13, nationality -> South Korea.",
+      "answer": "Ban Ki-moon was born on 1944-06-13 and is South Korea.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Kofi Annan?",
+      "knowledge_snippet": "Kofi Annan gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Kofi Annan?",
+      "knowledge_snippet": "Kofi Annan nationality -> Ghana.",
+      "answer": "Ghana",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Kofi Annan born?",
+      "knowledge_snippet": "Kofi Annan birth date -> 1938-04-08.",
+      "answer": "1938-04-08",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Kofi Annan born and what is their nationality?",
+      "knowledge_snippet": "Kofi Annan birth date -> 1938-04-08, nationality -> Ghana.",
+      "answer": "Kofi Annan was born on 1938-04-08 and is Ghana.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Leonard Cohen?",
+      "knowledge_snippet": "Leonard Cohen gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Leonard Cohen?",
+      "knowledge_snippet": "Leonard Cohen nationality -> Canada.",
+      "answer": "Canada",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Leonard Cohen born?",
+      "knowledge_snippet": "Leonard Cohen birth date -> 1934-09-21.",
+      "answer": "1934-09-21",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Leonard Cohen born and what is their nationality?",
+      "knowledge_snippet": "Leonard Cohen birth date -> 1934-09-21, nationality -> Canada.",
+      "answer": "Leonard Cohen was born on 1934-09-21 and is Canada.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Osama bin Laden?",
+      "knowledge_snippet": "Osama bin Laden gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Osama bin Laden?",
+      "knowledge_snippet": "Osama bin Laden nationality -> Saudi Arabia.",
+      "answer": "Saudi Arabia",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Osama bin Laden born?",
+      "knowledge_snippet": "Osama bin Laden birth date -> 1957-03-10.",
+      "answer": "1957-03-10",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Osama bin Laden born and what is their nationality?",
+      "knowledge_snippet": "Osama bin Laden birth date -> 1957-03-10, nationality -> Saudi Arabia.",
+      "answer": "Osama bin Laden was born on 1957-03-10 and is Saudi Arabia.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Friedrich Hayek?",
+      "knowledge_snippet": "Friedrich Hayek gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Friedrich Hayek?",
+      "knowledge_snippet": "Friedrich Hayek nationality -> Austria.",
+      "answer": "Austria",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Friedrich Hayek born?",
+      "knowledge_snippet": "Friedrich Hayek birth date -> 1899-05-08.",
+      "answer": "1899-05-08",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Friedrich Hayek born and what is their nationality?",
+      "knowledge_snippet": "Friedrich Hayek birth date -> 1899-05-08, nationality -> Austria.",
+      "answer": "Friedrich Hayek was born on 1899-05-08 and is Austria.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of José Joaquín Prieto?",
+      "knowledge_snippet": "José Joaquín Prieto gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of José Joaquín Prieto?",
+      "knowledge_snippet": "José Joaquín Prieto nationality -> Chile.",
+      "answer": "Chile",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was José Joaquín Prieto born?",
+      "knowledge_snippet": "José Joaquín Prieto birth date -> 1786-08-20.",
+      "answer": "1786-08-20",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was José Joaquín Prieto born and what is their nationality?",
+      "knowledge_snippet": "José Joaquín Prieto birth date -> 1786-08-20, nationality -> Chile.",
+      "answer": "José Joaquín Prieto was born on 1786-08-20 and is Chile.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Dave Arneson?",
+      "knowledge_snippet": "Dave Arneson gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Dave Arneson?",
+      "knowledge_snippet": "Dave Arneson nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Dave Arneson born?",
+      "knowledge_snippet": "Dave Arneson birth date -> 1947-10-01.",
+      "answer": "1947-10-01",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Dave Arneson born and what is their nationality?",
+      "knowledge_snippet": "Dave Arneson birth date -> 1947-10-01, nationality -> United States.",
+      "answer": "Dave Arneson was born on 1947-10-01 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Otho?",
+      "knowledge_snippet": "Otho gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Otho born?",
+      "knowledge_snippet": "Otho birth date -> 0032-04-28.",
+      "answer": "0032-04-28",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Titus?",
+      "knowledge_snippet": "Titus gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Titus born?",
+      "knowledge_snippet": "Titus birth date -> 0041-00-00.",
+      "answer": "0041-00-00",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Richard Wagner?",
+      "knowledge_snippet": "Richard Wagner gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Richard Wagner?",
+      "knowledge_snippet": "Richard Wagner nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Richard Wagner born?",
+      "knowledge_snippet": "Richard Wagner birth date -> 1813-05-22.",
+      "answer": "1813-05-22",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the religion of Richard Wagner?",
+      "knowledge_snippet": "Richard Wagner religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the gender of Ramesses I?",
+      "knowledge_snippet": "Ramesses I gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Ramesses I born?",
+      "knowledge_snippet": "Ramesses I birth date -> -1300-00-00.",
+      "answer": "-1300-00-00",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Primo Nebiolo?",
+      "knowledge_snippet": "Primo Nebiolo gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Primo Nebiolo?",
+      "knowledge_snippet": "Primo Nebiolo nationality -> Italy.",
+      "answer": "Italy",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Primo Nebiolo born?",
+      "knowledge_snippet": "Primo Nebiolo birth date -> 1923-07-14.",
+      "answer": "1923-07-14",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Dejen Gebremeskel?",
+      "knowledge_snippet": "Dejen Gebremeskel gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Dejen Gebremeskel?",
+      "knowledge_snippet": "Dejen Gebremeskel nationality -> Ethiopia.",
+      "answer": "Ethiopia",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Dejen Gebremeskel born?",
+      "knowledge_snippet": "Dejen Gebremeskel birth date -> 1989-11-24.",
+      "answer": "1989-11-24",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Dejen Gebremeskel born and what is their nationality?",
+      "knowledge_snippet": "Dejen Gebremeskel birth date -> 1989-11-24, nationality -> Ethiopia.",
+      "answer": "Dejen Gebremeskel was born on 1989-11-24 and is Ethiopia.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Abel Mutai?",
+      "knowledge_snippet": "Abel Mutai gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Abel Mutai?",
+      "knowledge_snippet": "Abel Mutai nationality -> Kenya.",
+      "answer": "Kenya",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Abel Mutai born?",
+      "knowledge_snippet": "Abel Mutai birth date -> 1988-10-02.",
+      "answer": "1988-10-02",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Abel Mutai born and what is their nationality?",
+      "knowledge_snippet": "Abel Mutai birth date -> 1988-10-02, nationality -> Kenya.",
+      "answer": "Abel Mutai was born on 1988-10-02 and is Kenya.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Erick Barrondo?",
+      "knowledge_snippet": "Erick Barrondo gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Erick Barrondo?",
+      "knowledge_snippet": "Erick Barrondo nationality -> Guatemala.",
+      "answer": "Guatemala",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Erick Barrondo born?",
+      "knowledge_snippet": "Erick Barrondo birth date -> 1991-06-14.",
+      "answer": "1991-06-14",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Erick Barrondo born and what is their nationality?",
+      "knowledge_snippet": "Erick Barrondo birth date -> 1991-06-14, nationality -> Guatemala.",
+      "answer": "Erick Barrondo was born on 1991-06-14 and is Guatemala.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Robert Grabarz?",
+      "knowledge_snippet": "Robert Grabarz gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Robert Grabarz?",
+      "knowledge_snippet": "Robert Grabarz nationality -> United Kingdom.",
+      "answer": "United Kingdom",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Robert Grabarz born?",
+      "knowledge_snippet": "Robert Grabarz birth date -> 1987-10-03.",
+      "answer": "1987-10-03",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Robert Grabarz born and what is their nationality?",
+      "knowledge_snippet": "Robert Grabarz birth date -> 1987-10-03, nationality -> United Kingdom.",
+      "answer": "Robert Grabarz was born on 1987-10-03 and is United Kingdom.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Tomasz Majewski?",
+      "knowledge_snippet": "Tomasz Majewski gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Tomasz Majewski?",
+      "knowledge_snippet": "Tomasz Majewski nationality -> Poland.",
+      "answer": "Poland",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Tomasz Majewski born?",
+      "knowledge_snippet": "Tomasz Majewski birth date -> 1981-08-30.",
+      "answer": "1981-08-30",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Tomasz Majewski born and what is their nationality?",
+      "knowledge_snippet": "Tomasz Majewski birth date -> 1981-08-30, nationality -> Poland.",
+      "answer": "Tomasz Majewski was born on 1981-08-30 and is Poland.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Ashton Eaton?",
+      "knowledge_snippet": "Ashton Eaton gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Ashton Eaton?",
+      "knowledge_snippet": "Ashton Eaton nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Ashton Eaton born?",
+      "knowledge_snippet": "Ashton Eaton birth date -> 1988-01-21.",
+      "answer": "1988-01-21",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Ashton Eaton born and what is their nationality?",
+      "knowledge_snippet": "Ashton Eaton birth date -> 1988-01-21, nationality -> United States.",
+      "answer": "Ashton Eaton was born on 1988-01-21 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Gordian III?",
+      "knowledge_snippet": "Gordian III gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "When was Gordian III born?",
+      "knowledge_snippet": "Gordian III birth date -> 0225-01-20.",
+      "answer": "0225-01-20",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "What is the gender of Olivier Giroud?",
+      "knowledge_snippet": "Olivier Giroud gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Olivier Giroud?",
+      "knowledge_snippet": "Olivier Giroud nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Olivier Giroud born?",
+      "knowledge_snippet": "Olivier Giroud birth date -> 1986-09-30.",
+      "answer": "1986-09-30",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Olivier Giroud born and what is their nationality?",
+      "knowledge_snippet": "Olivier Giroud birth date -> 1986-09-30, nationality -> France.",
+      "answer": "Olivier Giroud was born on 1986-09-30 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Yann M'Vila?",
+      "knowledge_snippet": "Yann M'Vila gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Yann M'Vila?",
+      "knowledge_snippet": "Yann M'Vila nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Yann M'Vila born?",
+      "knowledge_snippet": "Yann M'Vila birth date -> 1990-06-29.",
+      "answer": "1990-06-29",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Yann M'Vila born and what is their nationality?",
+      "knowledge_snippet": "Yann M'Vila birth date -> 1990-06-29, nationality -> France.",
+      "answer": "Yann M'Vila was born on 1990-06-29 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Sidney Govou?",
+      "knowledge_snippet": "Sidney Govou gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Sidney Govou?",
+      "knowledge_snippet": "Sidney Govou nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Sidney Govou born?",
+      "knowledge_snippet": "Sidney Govou birth date -> 1979-07-27.",
+      "answer": "1979-07-27",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Sidney Govou born and what is their nationality?",
+      "knowledge_snippet": "Sidney Govou birth date -> 1979-07-27, nationality -> France.",
+      "answer": "Sidney Govou was born on 1979-07-27 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Djibril Cissé?",
+      "knowledge_snippet": "Djibril Cissé gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Djibril Cissé?",
+      "knowledge_snippet": "Djibril Cissé nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Djibril Cissé born?",
+      "knowledge_snippet": "Djibril Cissé birth date -> 1981-08-12.",
+      "answer": "1981-08-12",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Djibril Cissé born and what is their nationality?",
+      "knowledge_snippet": "Djibril Cissé birth date -> 1981-08-12, nationality -> France.",
+      "answer": "Djibril Cissé was born on 1981-08-12 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Bacary Sagna?",
+      "knowledge_snippet": "Bacary Sagna gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Bacary Sagna?",
+      "knowledge_snippet": "Bacary Sagna nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Bacary Sagna born?",
+      "knowledge_snippet": "Bacary Sagna birth date -> 1983-02-14.",
+      "answer": "1983-02-14",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Bacary Sagna born and what is their nationality?",
+      "knowledge_snippet": "Bacary Sagna birth date -> 1983-02-14, nationality -> France.",
+      "answer": "Bacary Sagna was born on 1983-02-14 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Hermann Maier?",
+      "knowledge_snippet": "Hermann Maier gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Hermann Maier?",
+      "knowledge_snippet": "Hermann Maier nationality -> Austria.",
+      "answer": "Austria",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Hermann Maier born?",
+      "knowledge_snippet": "Hermann Maier birth date -> 1972-12-07.",
+      "answer": "1972-12-07",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Hermann Maier born and what is their nationality?",
+      "knowledge_snippet": "Hermann Maier birth date -> 1972-12-07, nationality -> Austria.",
+      "answer": "Hermann Maier was born on 1972-12-07 and is Austria.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Jacques Chirac?",
+      "knowledge_snippet": "Jacques Chirac gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Jacques Chirac?",
+      "knowledge_snippet": "Jacques Chirac nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Jacques Chirac born?",
+      "knowledge_snippet": "Jacques Chirac birth date -> 1932-11-29.",
+      "answer": "1932-11-29",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Jacques Chirac born and what is their nationality?",
+      "knowledge_snippet": "Jacques Chirac birth date -> 1932-11-29, nationality -> France.",
+      "answer": "Jacques Chirac was born on 1932-11-29 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Georges Pompidou?",
+      "knowledge_snippet": "Georges Pompidou gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Georges Pompidou?",
+      "knowledge_snippet": "Georges Pompidou nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Georges Pompidou born?",
+      "knowledge_snippet": "Georges Pompidou birth date -> 1911-07-05.",
+      "answer": "1911-07-05",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Georges Pompidou born and what is their nationality?",
+      "knowledge_snippet": "Georges Pompidou birth date -> 1911-07-05, nationality -> France.",
+      "answer": "Georges Pompidou was born on 1911-07-05 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the gender of Coluche?",
+      "knowledge_snippet": "Coluche gender -> male.",
+      "answer": "Male.",
+      "explanation": "P21 indicates male."
+    },
+    {
+      "question": "What is the nationality of Coluche?",
+      "knowledge_snippet": "Coluche nationality -> France.",
+      "answer": "France",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Coluche born?",
+      "knowledge_snippet": "Coluche birth date -> 1944-10-28.",
+      "answer": "1944-10-28",
+      "explanation": "P569 indicates the date of birth."
+    },
+    {
+      "question": "When was Coluche born and what is their nationality?",
+      "knowledge_snippet": "Coluche birth date -> 1944-10-28, nationality -> France.",
+      "answer": "Coluche was born on 1944-10-28 and is France.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the nationality of Ludwig Erhard?",
+      "knowledge_snippet": "Ludwig Erhard nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "What is the religion of Ludwig Erhard?",
+      "knowledge_snippet": "Ludwig Erhard religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "When was Ludwig Erhard born and what is their nationality?",
+      "knowledge_snippet": "Ludwig Erhard birth date -> 1897-02-04, nationality -> Germany.",
+      "answer": "Ludwig Erhard was born on 1897-02-04 and is Germany.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the nationality of Helmut Kohl?",
+      "knowledge_snippet": "Helmut Kohl nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "What is the nationality of Richard von Weizsäcker?",
+      "knowledge_snippet": "Richard von Weizsäcker nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "What is the religion of Richard von Weizsäcker?",
+      "knowledge_snippet": "Richard von Weizsäcker religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "When was Richard von Weizsäcker born and what is their nationality?",
+      "knowledge_snippet": "Richard von Weizsäcker birth date -> 1920-04-15, nationality -> Germany.",
+      "answer": "Richard von Weizsäcker was born on 1920-04-15 and is Germany.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the nationality of Wilhelm II?",
+      "knowledge_snippet": "Wilhelm II nationality -> Germany.",
+      "answer": "Germany",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "What is the religion of Wilhelm II?",
+      "knowledge_snippet": "Wilhelm II religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the nationality of Mack Wilberg?",
+      "knowledge_snippet": "Mack Wilberg nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Mack Wilberg born and what is their nationality?",
+      "knowledge_snippet": "Mack Wilberg birth date -> 1955-01-01, nationality -> United States.",
+      "answer": "Mack Wilberg was born on 1955-01-01 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the nationality of Georg Henrik Lybecker?",
+      "knowledge_snippet": "Georg Henrik Lybecker nationality -> Sweden.",
+      "answer": "Sweden",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Georg Henrik Lybecker born and what is their nationality?",
+      "knowledge_snippet": "Georg Henrik Lybecker birth date -> 1600-00-00, nationality -> Sweden.",
+      "answer": "Georg Henrik Lybecker was born on 1600-00-00 and is Sweden.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "What is the nationality of Elisha E. Meredith?",
+      "knowledge_snippet": "Elisha E. Meredith nationality -> United States.",
+      "answer": "United States",
+      "explanation": "P27 indicates the nationality."
+    },
+    {
+      "question": "When was Elisha E. Meredith born and what is their nationality?",
+      "knowledge_snippet": "Elisha E. Meredith birth date -> 1848-12-26, nationality -> United States.",
+      "answer": "Elisha E. Meredith was born on 1848-12-26 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "When was Hubert Clifford born and what is their nationality?",
+      "knowledge_snippet": "Hubert Clifford birth date -> 1904-01-01, nationality -> United Kingdom.",
+      "answer": "Hubert Clifford was born on 1904-01-01 and is United Kingdom.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "When was Yukiko Kobayashi born and what is their nationality?",
+      "knowledge_snippet": "Yukiko Kobayashi birth date -> 1946-10-06, nationality -> Japan.",
+      "answer": "Yukiko Kobayashi was born on 1946-10-06 and is Japan.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "When was Anne-Sophie Mutter born and what is their nationality?",
+      "knowledge_snippet": "Anne-Sophie Mutter birth date -> 1963-06-29, nationality -> Germany.",
+      "answer": "Anne-Sophie Mutter was born on 1963-06-29 and is Germany.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "When was Jack Angel born and what is their nationality?",
+      "knowledge_snippet": "Jack Angel birth date -> 1930-10-24, nationality -> United States.",
+      "answer": "Jack Angel was born on 1930-10-24 and is United States.",
+      "explanation": "P569 indicates birth date, P27 indicates nationality."
+    },
+    {
+      "question": "Where was Guillaume IX born?",
+      "knowledge_snippet": "Guillaume IX birth place -> France.",
+      "answer": "France",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Albrecht Dürer?",
+      "knowledge_snippet": "Albrecht Dürer religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Søren Kierkegaard?",
+      "knowledge_snippet": "Søren Kierkegaard religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Emperor Zhang of Han born?",
+      "knowledge_snippet": "Emperor Zhang of Han birth place -> China.",
+      "answer": "China",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Jing Li born?",
+      "knowledge_snippet": "Jing Li birth place -> People's Republic of China.",
+      "answer": "People's Republic of China",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Jamie Selkirk born?",
+      "knowledge_snippet": "Jamie Selkirk birth place -> New Zealand.",
+      "answer": "New Zealand",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Tümen Jasagtu Khan born?",
+      "knowledge_snippet": "Tümen Jasagtu Khan birth place -> Mongolia.",
+      "answer": "Mongolia",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Martin Luther?",
+      "knowledge_snippet": "Martin Luther religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Bertilo Wennergren born?",
+      "knowledge_snippet": "Bertilo Wennergren birth place -> Sweden.",
+      "answer": "Sweden",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Leopold I of Belgium?",
+      "knowledge_snippet": "Leopold I of Belgium religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of William Herschel?",
+      "knowledge_snippet": "William Herschel religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Mark Wakefield born?",
+      "knowledge_snippet": "Mark Wakefield birth place -> United States.",
+      "answer": "United States",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was William Hirstein born?",
+      "knowledge_snippet": "William Hirstein birth place -> United States.",
+      "answer": "United States",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Alexei Maximov born?",
+      "knowledge_snippet": "Alexei Maximov birth place -> Soviet Union.",
+      "answer": "Soviet Union",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Muhammad bin Sabah Al-Sabah born?",
+      "knowledge_snippet": "Muhammad bin Sabah Al-Sabah birth place -> Kuwait.",
+      "answer": "Kuwait",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Sigurðr Hákonarson born?",
+      "knowledge_snippet": "Sigurðr Hákonarson birth place -> Norway.",
+      "answer": "Norway",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Isaac Mordechai born?",
+      "knowledge_snippet": "Isaac Mordechai birth place -> Iraq.",
+      "answer": "Iraq",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Anita Howard born?",
+      "knowledge_snippet": "Anita Howard birth place -> United States.",
+      "answer": "United States",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Sophus Lie?",
+      "knowledge_snippet": "Sophus Lie religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Sat-Okh born?",
+      "knowledge_snippet": "Sat-Okh birth place -> Canada.",
+      "answer": "Canada",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Alexis Texas born?",
+      "knowledge_snippet": "Alexis Texas birth place -> Panama.",
+      "answer": "Panama",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Master of the Blue Jeans born?",
+      "knowledge_snippet": "Master of the Blue Jeans birth place -> Italy.",
+      "answer": "Italy",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Muhammad Jamalul Alam II born?",
+      "knowledge_snippet": "Muhammad Jamalul Alam II birth place -> Brunei.",
+      "answer": "Brunei",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Trahamunda born?",
+      "knowledge_snippet": "Trahamunda birth place -> Galicia.",
+      "answer": "Galicia",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Günther Beckstein?",
+      "knowledge_snippet": "Günther Beckstein religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Anne Anderson born?",
+      "knowledge_snippet": "Anne Anderson birth place -> Scotland.",
+      "answer": "Scotland",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Paulo Rodrigues Barc born?",
+      "knowledge_snippet": "Paulo Rodrigues Barc birth place -> Brazil.",
+      "answer": "Brazil",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Edson Rodrigues born?",
+      "knowledge_snippet": "Edson Rodrigues birth place -> Brazil.",
+      "answer": "Brazil",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Johann Alexander Döderlein?",
+      "knowledge_snippet": "Johann Alexander Döderlein religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Gustav Leonhardt born?",
+      "knowledge_snippet": "Gustav Leonhardt birth place -> Netherlands.",
+      "answer": "Netherlands",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Gustaf VI Adolf of Sweden?",
+      "knowledge_snippet": "Gustaf VI Adolf of Sweden religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Charles XIV John of Sweden?",
+      "knowledge_snippet": "Charles XIV John of Sweden religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Charles XIII of Sweden?",
+      "knowledge_snippet": "Charles XIII of Sweden religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Charles IX of Sweden?",
+      "knowledge_snippet": "Charles IX of Sweden religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Göran Persson?",
+      "knowledge_snippet": "Göran Persson religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Leni Riefenstahl?",
+      "knowledge_snippet": "Leni Riefenstahl religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Anna Löwenstein born?",
+      "knowledge_snippet": "Anna Löwenstein birth place -> England.",
+      "answer": "England",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Adolf von Baeyer?",
+      "knowledge_snippet": "Adolf von Baeyer religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Princess Wilhelmine of Baden?",
+      "knowledge_snippet": "Princess Wilhelmine of Baden religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Louise of Mecklenburg-Güstrow?",
+      "knowledge_snippet": "Louise of Mecklenburg-Güstrow religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Duchess Alexandra of Oldenburg?",
+      "knowledge_snippet": "Duchess Alexandra of Oldenburg religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Fawzi Salloukh born?",
+      "knowledge_snippet": "Fawzi Salloukh birth place -> Lebanon.",
+      "answer": "Lebanon",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Henry Montgomery Lawrence born?",
+      "knowledge_snippet": "Henry Montgomery Lawrence birth place -> Sri Lanka.",
+      "answer": "Sri Lanka",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Edmund Husserl?",
+      "knowledge_snippet": "Edmund Husserl religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Princess Charlotte of Prussia?",
+      "knowledge_snippet": "Princess Charlotte of Prussia religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of August Hermann Francke?",
+      "knowledge_snippet": "August Hermann Francke religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Max Born?",
+      "knowledge_snippet": "Max Born religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Carola of Vasa?",
+      "knowledge_snippet": "Carola of Vasa religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Princess Marie of Saxe-Weimar-Eisenach?",
+      "knowledge_snippet": "Princess Marie of Saxe-Weimar-Eisenach religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Kuno Fischer?",
+      "knowledge_snippet": "Kuno Fischer religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Frederica of Hanover?",
+      "knowledge_snippet": "Frederica of Hanover religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Ernst II, Duke of Saxe-Altenburg?",
+      "knowledge_snippet": "Ernst II, Duke of Saxe-Altenburg religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Friedrich Wilhelm, Duke of Brunswick-Wolfenbüttel?",
+      "knowledge_snippet": "Friedrich Wilhelm, Duke of Brunswick-Wolfenbüttel religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johannes Baptista von Albertini?",
+      "knowledge_snippet": "Johannes Baptista von Albertini religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Hermann, Prince of Hohenlohe-Langenburg?",
+      "knowledge_snippet": "Hermann, Prince of Hohenlohe-Langenburg religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johannes Cocceius?",
+      "knowledge_snippet": "Johannes Cocceius religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Marie Louise of Hesse-Kassel?",
+      "knowledge_snippet": "Marie Louise of Hesse-Kassel religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of William, Duke of Brunswick?",
+      "knowledge_snippet": "William, Duke of Brunswick religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Philipp August Böckh?",
+      "knowledge_snippet": "Philipp August Böckh religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Otto Brunfels?",
+      "knowledge_snippet": "Otto Brunfels religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johann Franz Buddeus?",
+      "knowledge_snippet": "Johann Franz Buddeus religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johann Peter Süssmilch?",
+      "knowledge_snippet": "Johann Peter Süssmilch religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Theo Bierkens born?",
+      "knowledge_snippet": "Theo Bierkens birth place -> Netherlands.",
+      "answer": "Netherlands",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the religion of Ernst Ludwig II, Duke of Saxe-Meiningen?",
+      "knowledge_snippet": "Ernst Ludwig II, Duke of Saxe-Meiningen religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johann Jakob Griesbach?",
+      "knowledge_snippet": "Johann Jakob Griesbach religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of William, Duke of Saxe-Weimar?",
+      "knowledge_snippet": "William, Duke of Saxe-Weimar religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Emil Warburg?",
+      "knowledge_snippet": "Emil Warburg religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Georg Neumark?",
+      "knowledge_snippet": "Georg Neumark religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Friedrich Wilhelm Foerster?",
+      "knowledge_snippet": "Friedrich Wilhelm Foerster religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johann Gottfried Ludwig Kosegarten?",
+      "knowledge_snippet": "Johann Gottfried Ludwig Kosegarten religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Johann Gerhard?",
+      "knowledge_snippet": "Johann Gerhard religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "What is the religion of Duke Ludwig of Mecklenburg-Schwerin?",
+      "knowledge_snippet": "Duke Ludwig of Mecklenburg-Schwerin religion -> Lutheranism.",
+      "answer": "Lutheranism",
+      "explanation": "P140 indicates the religion."
+    },
+    {
+      "question": "Where was Christine Beck born?",
+      "knowledge_snippet": "Christine Beck birth place -> Germany.",
+      "answer": "Germany",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Günter Thorhauer born?",
+      "knowledge_snippet": "Günter Thorhauer birth place -> Germany.",
+      "answer": "Germany",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Ludwig Guttmann born?",
+      "knowledge_snippet": "Ludwig Guttmann birth place -> Poland.",
+      "answer": "Poland",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Ruud Janssen born?",
+      "knowledge_snippet": "Ruud Janssen birth place -> Venray.",
+      "answer": "Venray",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Bahman Nirumand born?",
+      "knowledge_snippet": "Bahman Nirumand birth place -> Iran.",
+      "answer": "Iran",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the occupation of Conrad Steinbrecht?",
+      "knowledge_snippet": "Conrad Steinbrecht occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "Where was Kim Henkel born?",
+      "knowledge_snippet": "Kim Henkel birth place -> United States.",
+      "answer": "United States",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Ahn Yong-joon born?",
+      "knowledge_snippet": "Ahn Yong-joon birth place -> South Korea.",
+      "answer": "South Korea",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Alex Thomas born?",
+      "knowledge_snippet": "Alex Thomas birth place -> England.",
+      "answer": "England",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Herbert H. Ágústsson born?",
+      "knowledge_snippet": "Herbert H. Ágústsson birth place -> Austria.",
+      "answer": "Austria",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Oleh Hornykiewicz born?",
+      "knowledge_snippet": "Oleh Hornykiewicz birth place -> Ukraine.",
+      "answer": "Ukraine",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Samuel Oppenheim born?",
+      "knowledge_snippet": "Samuel Oppenheim birth place -> Czech Republic.",
+      "answer": "Czech Republic",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Eduard Winter born?",
+      "knowledge_snippet": "Eduard Winter birth place -> Austria-Hungary.",
+      "answer": "Austria-Hungary",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Hannes Seifert born?",
+      "knowledge_snippet": "Hannes Seifert birth place -> Austria.",
+      "answer": "Austria",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Martin Kusch born?",
+      "knowledge_snippet": "Martin Kusch birth place -> Austria.",
+      "answer": "Austria",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Ton Roosendaal born?",
+      "knowledge_snippet": "Ton Roosendaal birth place -> Netherlands.",
+      "answer": "Netherlands",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Johan Håstad born?",
+      "knowledge_snippet": "Johan Håstad birth place -> Sweden.",
+      "answer": "Sweden",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Mario Szegedy born?",
+      "knowledge_snippet": "Mario Szegedy birth place -> Hungary.",
+      "answer": "Hungary",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Andrew Morton born?",
+      "knowledge_snippet": "Andrew Morton birth place -> England.",
+      "answer": "England",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Michael A. Arbib born?",
+      "knowledge_snippet": "Michael A. Arbib birth place -> England.",
+      "answer": "England",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Henri Gouraud born?",
+      "knowledge_snippet": "Henri Gouraud birth place -> France.",
+      "answer": "France",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Monte Davidoff born?",
+      "knowledge_snippet": "Monte Davidoff birth place -> United States.",
+      "answer": "United States",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Charles Leonard Hamblin born?",
+      "knowledge_snippet": "Charles Leonard Hamblin birth place -> Australia.",
+      "answer": "Australia",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Johann Christoph Wichmannshausen born?",
+      "knowledge_snippet": "Johann Christoph Wichmannshausen birth place -> Germany.",
+      "answer": "Germany",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "Where was Gerd Suhren born?",
+      "knowledge_snippet": "Gerd Suhren birth place -> Samoa.",
+      "answer": "Samoa",
+      "explanation": "P19 indicates the place of birth."
+    },
+    {
+      "question": "What is the occupation of Lena Falkenhagen?",
+      "knowledge_snippet": "Lena Falkenhagen occupation -> video game developer.",
+      "answer": "video game developer",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Jürgen P.K. Grunau?",
+      "knowledge_snippet": "Jürgen P.K. Grunau occupation -> video game developer.",
+      "answer": "video game developer",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Josef Strzygowski?",
+      "knowledge_snippet": "Josef Strzygowski occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Adalbert Stifter?",
+      "knowledge_snippet": "Adalbert Stifter occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the ethnicity of João Havelange?",
+      "knowledge_snippet": "João Havelange ethnicity -> Brazil.",
+      "answer": "Brazil",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Jacque Fresco?",
+      "knowledge_snippet": "Jacque Fresco ethnicity -> United States.",
+      "answer": "United States",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the occupation of Agnes Baden-Powell?",
+      "knowledge_snippet": "Agnes Baden-Powell occupation -> scout.",
+      "answer": "scout",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Wiktor Zin?",
+      "knowledge_snippet": "Wiktor Zin occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Mesogeia Painter?",
+      "knowledge_snippet": "Mesogeia Painter occupation -> Orientalizing vase-painter.",
+      "answer": "Orientalizing vase-painter",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Jacob Joshua Falk?",
+      "knowledge_snippet": "Jacob Joshua Falk occupation -> Talmid Chacham.",
+      "answer": "Talmid Chacham",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Charles Eastman?",
+      "knowledge_snippet": "Charles Eastman occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Grigore II Ghica?",
+      "knowledge_snippet": "Grigore II Ghica occupation -> Dragoman of the Porte.",
+      "answer": "Dragoman of the Porte",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Encarnación Ezcurra?",
+      "knowledge_snippet": "Encarnación Ezcurra occupation -> citizen.",
+      "answer": "citizen",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Wolfgang Erdmann?",
+      "knowledge_snippet": "Wolfgang Erdmann occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Erich Stuckel?",
+      "knowledge_snippet": "Erich Stuckel occupation -> parliamentary group leader.",
+      "answer": "parliamentary group leader",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Lee Brimmicombe-Wood?",
+      "knowledge_snippet": "Lee Brimmicombe-Wood occupation -> video game developer.",
+      "answer": "video game developer",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Daniel Carter Beard?",
+      "knowledge_snippet": "Daniel Carter Beard occupation -> scout.",
+      "answer": "scout",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Werner Schäfer?",
+      "knowledge_snippet": "Werner Schäfer occupation -> Nazi concentration camp commandant.",
+      "answer": "Nazi concentration camp commandant",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Sandy Petersen?",
+      "knowledge_snippet": "Sandy Petersen occupation -> board game publishing company.",
+      "answer": "board game publishing company",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Boson de Talleyrand-Périgord?",
+      "knowledge_snippet": "Boson de Talleyrand-Périgord occupation -> dandy.",
+      "answer": "dandy",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Denis Bajram?",
+      "knowledge_snippet": "Denis Bajram occupation -> video game developer.",
+      "answer": "video game developer",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Esther Orozco?",
+      "knowledge_snippet": "Esther Orozco occupation -> citizen.",
+      "answer": "citizen",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Jeanne Le Ber?",
+      "knowledge_snippet": "Jeanne Le Ber occupation -> recluse.",
+      "answer": "recluse",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Pierre Arizzoli-Clémentel?",
+      "knowledge_snippet": "Pierre Arizzoli-Clémentel occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Fabio Jansen?",
+      "knowledge_snippet": "Fabio Jansen occupation -> passenger.",
+      "answer": "passenger",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Giulio Maresio?",
+      "knowledge_snippet": "Giulio Maresio occupation -> Franciscans.",
+      "answer": "Franciscans",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Oksana Pushkina?",
+      "knowledge_snippet": "Oksana Pushkina occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Agnes Gilmour Kent-Johnston?",
+      "knowledge_snippet": "Agnes Gilmour Kent-Johnston occupation -> broadcaster.",
+      "answer": "broadcaster",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the ethnicity of Anna Jones?",
+      "knowledge_snippet": "Anna Jones ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the occupation of Arie Zeev Raskin?",
+      "knowledge_snippet": "Arie Zeev Raskin occupation -> Shaliach.",
+      "answer": "Shaliach",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Brigitte Duclos?",
+      "knowledge_snippet": "Brigitte Duclos occupation -> broadcaster.",
+      "answer": "broadcaster",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Caroline Emmerton?",
+      "knowledge_snippet": "Caroline Emmerton occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Edoff Andersson?",
+      "knowledge_snippet": "Edoff Andersson occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Gill Deacon?",
+      "knowledge_snippet": "Gill Deacon occupation -> broadcaster.",
+      "answer": "broadcaster",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Bengt Gustavsson?",
+      "knowledge_snippet": "Bengt Gustavsson occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Reza Gheysarieh?",
+      "knowledge_snippet": "Reza Gheysarieh occupation -> Marta Marín-Dòmine.",
+      "answer": "Marta Marín-Dòmine",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Henning Nilsson?",
+      "knowledge_snippet": "Henning Nilsson occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Georg Nyblom?",
+      "knowledge_snippet": "Georg Nyblom occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Roland Sundgren?",
+      "knowledge_snippet": "Roland Sundgren occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Erik Olof Wiklund?",
+      "knowledge_snippet": "Erik Olof Wiklund occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Menachem Shmuel David Raichik?",
+      "knowledge_snippet": "Menachem Shmuel David Raichik occupation -> Shaliach.",
+      "answer": "Shaliach",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Robert Lee?",
+      "knowledge_snippet": "Robert Lee occupation -> gentry.",
+      "answer": "gentry",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Trond-Viggo Torgersen?",
+      "knowledge_snippet": "Trond-Viggo Torgersen occupation -> ombudsman.",
+      "answer": "ombudsman",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Adam Stebelski?",
+      "knowledge_snippet": "Adam Stebelski occupation -> scout.",
+      "answer": "scout",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Wu Lin?",
+      "knowledge_snippet": "Wu Lin occupation -> People's Republic of China.",
+      "answer": "People's Republic of China",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Bohumír Kozák?",
+      "knowledge_snippet": "Bohumír Kozák occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Iris Barry?",
+      "knowledge_snippet": "Iris Barry occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Eiju Tokiwazu?",
+      "knowledge_snippet": "Eiju Tokiwazu occupation -> jōrurikatari.",
+      "answer": "jōrurikatari",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Jan Sedlák?",
+      "knowledge_snippet": "Jan Sedlák occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Jaroslav Vanek?",
+      "knowledge_snippet": "Jaroslav Vanek occupation -> scout.",
+      "answer": "scout",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Miloslav Pojsl?",
+      "knowledge_snippet": "Miloslav Pojsl occupation -> preservationist.",
+      "answer": "preservationist",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the occupation of Petr Náhlík?",
+      "knowledge_snippet": "Petr Náhlík occupation -> scout.",
+      "answer": "scout",
+      "explanation": "P106 indicates the occupation."
+    },
+    {
+      "question": "What is the ethnicity of Yannis Dagines?",
+      "knowledge_snippet": "Yannis Dagines ethnicity -> Greece.",
+      "answer": "Greece",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Norris Wright Cuney?",
+      "knowledge_snippet": "Norris Wright Cuney ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Opera lui François Villon?",
+      "knowledge_snippet": "Opera lui François Villon author -> François Villon.",
+      "answer": "François Villon",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Captain Pamphile?",
+      "knowledge_snippet": "Captain Pamphile author -> Alexandre Dumas.",
+      "answer": "Alexandre Dumas",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Synthesis and crystal structure of ammonium tetrachlorouranate(III) tetrahydrate?",
+      "knowledge_snippet": "Synthesis and crystal structure of ammonium tetrachlorouranate(III) tetrahydrate author -> Jan Janczak.",
+      "answer": "Jan Janczak",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Lucinda Evans?",
+      "knowledge_snippet": "Lucinda Evans ethnicity -> South Africa.",
+      "answer": "South Africa",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Kasra Talebian?",
+      "knowledge_snippet": "Kasra Talebian author -> Karim Rashid.",
+      "answer": "Karim Rashid",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Josefa de la Cruz?",
+      "knowledge_snippet": "Josefa de la Cruz ethnicity -> mulatto.",
+      "answer": "mulatto",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of James Birch?",
+      "knowledge_snippet": "James Birch ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Raymundo Nonato Pinheiro?",
+      "knowledge_snippet": "Raymundo Nonato Pinheiro ethnicity -> mulatto.",
+      "answer": "mulatto",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Black Heart?",
+      "knowledge_snippet": "Black Heart ethnicity -> Oglala Sioux Tribe.",
+      "answer": "Oglala Sioux Tribe",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of William Little Chief?",
+      "knowledge_snippet": "William Little Chief ethnicity -> Cheyenne and Arapaho Tribes.",
+      "answer": "Cheyenne and Arapaho Tribes",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Adrian de Groot Ruiz?",
+      "knowledge_snippet": "Adrian de Groot Ruiz ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Quebec's Digital Storytelling Manifesto?",
+      "knowledge_snippet": "Quebec's Digital Storytelling Manifesto author -> Thibaut Duverneix.",
+      "answer": "Thibaut Duverneix",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Brayden Cross?",
+      "knowledge_snippet": "Brayden Cross ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Japanese people of Canadian descents?",
+      "knowledge_snippet": "Japanese people of Canadian descents ethnicity -> Canada.",
+      "answer": "Canada",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Diana May Ling Chung?",
+      "knowledge_snippet": "Diana May Ling Chung ethnicity -> Thailand.",
+      "answer": "Thailand",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Bassam Tibi?",
+      "knowledge_snippet": "Bassam Tibi ethnicity -> Syria.",
+      "answer": "Syria",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Bob Humphrys?",
+      "knowledge_snippet": "Bob Humphrys ethnicity -> Wales.",
+      "answer": "Wales",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Frank Whittaker?",
+      "knowledge_snippet": "Frank Whittaker ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Maggy?",
+      "knowledge_snippet": "Maggy ethnicity -> Japanese people of Canadian descents.",
+      "answer": "Japanese people of Canadian descents",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Yamil Mustafin?",
+      "knowledge_snippet": "Yamil Mustafin ethnicity -> Russia.",
+      "answer": "Russia",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Golden Miles?",
+      "knowledge_snippet": "Golden Miles author -> Katharine Susannah Prichard.",
+      "answer": "Katharine Susannah Prichard",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Ghali?",
+      "knowledge_snippet": "Ghali ethnicity -> Tunisia.",
+      "answer": "Tunisia",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Jessica Karuhanga?",
+      "knowledge_snippet": "Jessica Karuhanga ethnicity -> Uganda.",
+      "answer": "Uganda",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Moussa Benhamed?",
+      "knowledge_snippet": "Moussa Benhamed author -> Heribert Hirt.",
+      "answer": "Heribert Hirt",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of The role of dimethyl sulfoxide (DMSO) in ex-vivo examination of human skin burn injury treatment?",
+      "knowledge_snippet": "The role of dimethyl sulfoxide (DMSO) in ex-vivo examination of human skin burn injury treatment author -> Dorota Biniaś.",
+      "answer": "Dorota Biniaś",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Chase Kamata?",
+      "knowledge_snippet": "Chase Kamata ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Yuanlin Song?",
+      "knowledge_snippet": "Yuanlin Song author -> Yuye Zhang.",
+      "answer": "Yuye Zhang",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Maynard, Guy L.?",
+      "knowledge_snippet": "Maynard, Guy L. ethnicity -> United States.",
+      "answer": "United States",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Whirlwind?",
+      "knowledge_snippet": "Whirlwind ethnicity -> Cheyenne and Arapaho Tribes.",
+      "answer": "Cheyenne and Arapaho Tribes",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Bon Pote?",
+      "knowledge_snippet": "Bon Pote author -> Thomas Wagner.",
+      "answer": "Thomas Wagner",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Interactive Open Container Image?",
+      "knowledge_snippet": "Interactive Open Container Image author -> LizeLive.",
+      "answer": "LizeLive",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Archie Motley?",
+      "knowledge_snippet": "Archie Motley ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Johann Deisenhofer?",
+      "knowledge_snippet": "Johann Deisenhofer ethnicity -> Germany.",
+      "answer": "Germany",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Vladimir Prelog?",
+      "knowledge_snippet": "Vladimir Prelog ethnicity -> Croatia.",
+      "answer": "Croatia",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Brian De Palma?",
+      "knowledge_snippet": "Brian De Palma ethnicity -> United States.",
+      "answer": "United States",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Qalawun?",
+      "knowledge_snippet": "Qalawun ethnicity -> Egypt.",
+      "answer": "Egypt",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Micheal Nakamura?",
+      "knowledge_snippet": "Micheal Nakamura ethnicity -> Japanese  people of Australian descents.",
+      "answer": "Japanese  people of Australian descents",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Nikolay Makarov?",
+      "knowledge_snippet": "Nikolay Makarov ethnicity -> Russia.",
+      "answer": "Russia",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Meghan, Duchess of Sussex?",
+      "knowledge_snippet": "Meghan, Duchess of Sussex ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Jordan Peele?",
+      "knowledge_snippet": "Jordan Peele ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Thomas Savage?",
+      "knowledge_snippet": "Thomas Savage ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of F. W. Micklethwaite?",
+      "knowledge_snippet": "F. W. Micklethwaite ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Michael Derrick?",
+      "knowledge_snippet": "Michael Derrick ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Tom Morton?",
+      "knowledge_snippet": "Tom Morton ethnicity -> Scotland.",
+      "answer": "Scotland",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Cuningham, James McNabb (DNB12)?",
+      "knowledge_snippet": "Cuningham, James McNabb (DNB12) author -> D'Arcy Power.",
+      "answer": "D'Arcy Power",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Kathy Bribe?",
+      "knowledge_snippet": "Kathy Bribe ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of William Cohoe?",
+      "knowledge_snippet": "William Cohoe ethnicity -> Cheyenne and Arapaho Tribes.",
+      "answer": "Cheyenne and Arapaho Tribes",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Bakri Osman Saeed?",
+      "knowledge_snippet": "Bakri Osman Saeed ethnicity -> Sudan.",
+      "answer": "Sudan",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Acastanho Mbombo?",
+      "knowledge_snippet": "Acastanho Mbombo ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Tasoula Lazopouloy?",
+      "knowledge_snippet": "Tasoula Lazopouloy author -> Lakis Lazopoulos.",
+      "answer": "Lakis Lazopoulos",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Kazuki Lawlor?",
+      "knowledge_snippet": "Kazuki Lawlor ethnicity -> Japanese people of Canadian descents.",
+      "answer": "Japanese people of Canadian descents",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of INCUBIUS?",
+      "knowledge_snippet": "INCUBIUS author -> INCUBIUS.",
+      "answer": "INCUBIUS",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Baibars?",
+      "knowledge_snippet": "Baibars ethnicity -> Egypt.",
+      "answer": "Egypt",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Valentin Ovechkin?",
+      "knowledge_snippet": "Valentin Ovechkin ethnicity -> Russia.",
+      "answer": "Russia",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Chris Morris?",
+      "knowledge_snippet": "Chris Morris ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Jann Halexander?",
+      "knowledge_snippet": "Jann Halexander ethnicity -> mulatto.",
+      "answer": "mulatto",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Jean-Christophe Yacono?",
+      "knowledge_snippet": "Jean-Christophe Yacono author -> Quebec's Digital Storytelling Manifesto.",
+      "answer": "Quebec's Digital Storytelling Manifesto",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Maher Al Sabbagh?",
+      "knowledge_snippet": "Maher Al Sabbagh ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Erlang loss systems with shortest idle server first service discipline: Maintenance considerations?",
+      "knowledge_snippet": "Erlang loss systems with shortest idle server first service discipline: Maintenance considerations author -> Mohammadhossein Heydari.",
+      "answer": "Mohammadhossein Heydari",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "What is the ethnicity of Mari?",
+      "knowledge_snippet": "Mari ethnicity -> multiracial people.",
+      "answer": "multiracial people",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "What is the ethnicity of Charles Corfe?",
+      "knowledge_snippet": "Charles Corfe ethnicity -> England.",
+      "answer": "England",
+      "explanation": "P172 indicates the ethnicity."
+    },
+    {
+      "question": "Who is the author of Rule of Saint Basil?",
+      "knowledge_snippet": "Rule of Saint Basil author -> Theodore the Studite.",
+      "answer": "Theodore the Studite",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Nicolaus von Basel (ADB)?",
+      "knowledge_snippet": "Nicolaus von Basel (ADB) author -> Philipp Strauch.",
+      "answer": "Philipp Strauch",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of The scientist and the advertisement: Reklamegutachten in imperial Germany?",
+      "knowledge_snippet": "The scientist and the advertisement: Reklamegutachten in imperial Germany author -> Joris Mercelis.",
+      "answer": "Joris Mercelis",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of antropogenez.ru?",
+      "knowledge_snippet": "antropogenez.ru author -> Alexander Sokolov.",
+      "answer": "Alexander Sokolov",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Walcker, Eberhard Friedrich?",
+      "knowledge_snippet": "Walcker, Eberhard Friedrich author -> Theodor Schott.",
+      "answer": "Theodor Schott",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Sven Larsson?",
+      "knowledge_snippet": "Sven Larsson author -> Hans Gillingstam.",
+      "answer": "Hans Gillingstam",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Pernando Amezketarra?",
+      "knowledge_snippet": "Pernando Amezketarra author -> Txirrita.",
+      "answer": "Txirrita",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of GRB 000418, optical observation?",
+      "knowledge_snippet": "GRB 000418, optical observation author -> Arne Henden.",
+      "answer": "Arne Henden",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Otto Kallela?",
+      "knowledge_snippet": "Otto Kallela author -> Otto Kallela.",
+      "answer": "Otto Kallela",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Dork Tower?",
+      "knowledge_snippet": "Dork Tower author -> John Kovalic.",
+      "answer": "John Kovalic",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Common Workflow Language?",
+      "knowledge_snippet": "Common Workflow Language author -> Michael R. Crusoe.",
+      "answer": "Michael R. Crusoe",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of L'AgglOrieuse?",
+      "knowledge_snippet": "L'AgglOrieuse author -> Donato Pelayo.",
+      "answer": "Donato Pelayo",
+      "explanation": "P50 indicates the author."
+    },
+    {
+      "question": "Who is the author of Maywa Parejo?",
+      "knowledge_snippet": "Maywa Parejo author -> Raphaël Parejo-Coudert.",
+      "answer": "Raphaël Parejo-Coudert",
+      "explanation": "P50 indicates the author."
+    }
+  ]
+}
